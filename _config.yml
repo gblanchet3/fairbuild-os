@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: FairBuild OS
+description: A file-based operating system for running FairBuild AI
+show_downloads: false
