@@ -3,7 +3,7 @@
 **From:** Gabe Blanchet
 **To:** Kendall Hoyd, Founder/CEO, FairBuild AI
 **Date:** April 23, 2026
-**Kickoff:** Friday, April 24 — 1:30pm PST / 2:30pm MT
+**Kickoff:** Friday, April 24 — 11:30am PST / 12:30pm MT
 
 ---
 
@@ -80,7 +80,7 @@ Rule of thumb: **never share passwords.** Every platform below has a delegated-a
 
 ## Kickoff
 
-**Friday, April 24 — 1:30pm PST / 2:30pm MT — 90 min.** Zoom link incoming. Short pre-read Thursday night so we use the time well.
+**Friday, April 24 — 11:30am PST / 12:30pm MT — 90 min.** Google Meet link incoming. Short pre-read Thursday night so we use the time well.
 
 Let me know if the shape works and I'll get moving.
 
