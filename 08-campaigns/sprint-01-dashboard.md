@@ -52,8 +52,8 @@
 
 | Line | Budget | Spent | Notes |
 |---|---|---|---|
-| GVB fee — week 1 | $2,000 | — | Paid before Friday kickoff |
-| GVB fee — week 2 | $2,000 | — | Only if opt-in |
+| GVB fee — week 1 | $2,500 | — | Paid before Friday kickoff |
+| GVB fee — week 2 | $2,500 | — | Only if opt-in |
 | Ad spend — LinkedIn | ~$1,200 | — | FairBuild billed directly |
 | Ad spend — Meta | ~$800 | — | FairBuild billed directly |
 | Tooling / Claude API / video gen | $500 cap | — | Actuals w/ receipts at end |

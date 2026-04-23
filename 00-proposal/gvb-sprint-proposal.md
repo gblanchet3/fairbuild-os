@@ -35,8 +35,8 @@ Duplicating EOC. They're spraying a rented list. I'm building *your* owned asset
 
 ## Price
 
-- **Base sprint: $4,000** for 2 weeks
-- **Off-ramp end of week 1: $2,000.** If it's not working, you stop and keep everything built. No pushback, no cancellation fee.
+- **Base sprint: $5,000** for 2 weeks
+- **Off-ramp end of week 1: $2,500.** If it's not working, you stop and keep everything built. No pushback, no cancellation fee.
 - **Optional outbound add (decided end of week 1):** +$1,500
 
 ### Pass-through costs (you fund directly or reimburse at actual, with receipts)
@@ -44,11 +44,11 @@ Duplicating EOC. They're spraying a rented list. I'm building *your* owned asset
 - **Tooling + Claude API tokens** (Opus + video gen for creative): capped at $500
 - **Claude Pro:** $20/mo (yours)
 
-**Your 2-week out-of-pocket:** ~$6,500 base.
+**Your 2-week out-of-pocket:** ~$7,500 base.
 
 ### Payment
-- $2,000 before Friday kickoff (Stripe invoice)
-- $2,000 at start of week 2, only if you opt in to continue
+- $2,500 before Friday kickoff (Stripe invoice)
+- $2,500 at start of week 2, only if you opt in to continue
 - Tooling/token pass-through invoiced at actual cost at end of sprint, capped at $500
 - Ad spend billed directly to you by Meta/LinkedIn
 
