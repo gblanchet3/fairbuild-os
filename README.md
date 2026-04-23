@@ -2,7 +2,9 @@
 
 A file-based operating system for running FairBuild AI — company knowledge, customer intel, sales playbooks, campaigns, and content, all living in one repo that Claude Code can read, write, and reason about.
 
-**This repo itself is the demo.** The [proposal](00-proposal/gvb-sprint-proposal.md) you received is a markdown file in `00-proposal/`. The folders below are scaffolded for the sprint — we fill them in together.
+### → [Read the 2-week sprint proposal](00-proposal/)
+
+**This repo itself is the demo.** The proposal you received is a live markdown file at `00-proposal/`. The folders below are scaffolded for the sprint — we fill them in together.
 
 ---
 
@@ -10,7 +12,7 @@ A file-based operating system for running FairBuild AI — company knowledge, cu
 
 | Folder | Purpose |
 |---|---|
-| [`00-proposal/`](00-proposal/) | GVB's 2-week sprint proposal |
+| [`00-proposal/`](00-proposal/) | **GVB's 2-week sprint proposal** ← start here |
 | [`01-company/`](01-company/) | FairBuild wiki — what we do, why, team, fundraising |
 | [`02-icp-and-persona/`](02-icp-and-persona/) | Target customer, buyer persona, pain language |
 | [`03-voice-and-tone/`](03-voice-and-tone/) | Brand voice, messaging pillars, words we use / don't use |

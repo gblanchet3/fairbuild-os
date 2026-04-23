@@ -86,4 +86,4 @@ Let me know if the shape works and I'll get moving.
 
 ---
 
-*This proposal is a live markdown file in your FairBuild OS repo. You'll own this repo at end of the sprint — proposal, playbooks, voice guide, customer intel, and everything we build together. [Browse the OS](../README.md) to see what's scaffolded.*
+*This proposal is a live markdown file in your FairBuild OS repo. You'll own this repo at end of the sprint — proposal, playbooks, voice guide, customer intel, and everything we build together. [Browse the OS](../) to see what's scaffolded.*
