@@ -47,10 +47,12 @@ Duplicating EOC. They're spraying a rented list. I'm building *your* owned asset
 **Your 2-week out-of-pocket:** ~$7,500 base.
 
 ### Payment
-- $2,500 before Friday kickoff (Stripe invoice)
+- $2,500 before Friday kickoff
 - $2,500 at start of week 2, only if you opt in to continue
 - Tooling/token pass-through invoiced at actual cost at end of sprint, capped at $500
 - Ad spend billed directly to you by Meta/LinkedIn
+
+**How to pay:** Zelle (gblanchet3@gmail.com), ACH, or check — your pick. No Stripe, no credit card fees.
 
 ---
 
